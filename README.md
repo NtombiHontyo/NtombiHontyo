@@ -27,7 +27,7 @@ I'm Ntombi, a student at Brigham Young University-Idaho interested in computer s
 
 ## Let's Connect!
 
-- Here is my [LinkedIn] (www.linkedin.com/in/ntombihontyo) profile
+- Here is my [www.linkedin.com/in/ntombihontyo]  profile
 
 
 Feel free to explore my repositories and don't hesitate to reach out. Happy coding! 🚀
