@@ -1,8 +1,8 @@
 # Ntombi Hontyo
 
-Hello, GitHub! 👋
+Hi there! 👋
 
-I'm Ntombi, a student at Brigham Young University-Idaho interested in computer science, data science, web development, machine learning, and all things software. Welcome to my GitHub profile!
+I'm Ntombi, a software developer and a student at Brigham Young University-Idaho interested in computer science, data science, web development, machine learning, and all things software. Welcome to my GitHub profile!
 
 ## About Me
 
